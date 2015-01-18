@@ -1,0 +1,13 @@
+[
+  {
+    "repository": "device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common"
+	"revision": "lollipop-5.0"
+  },
+  {
+    "remote": "cm"
+	"repository": "android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager"
+	"revision": "cm-12.0"
+  }
+]
